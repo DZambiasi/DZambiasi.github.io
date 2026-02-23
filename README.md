@@ -1,163 +1,94 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Diego Zambiasi | Economist</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+# Diego Zambiasi
 
-    <style>
-        body {
-            margin: 0;
-            font-family: Arial, Helvetica, sans-serif;
-            background-color: #f7f7f7;
-            color: #222;
-            line-height: 1.6;
-        }
+Lecturer (Assistant Professor) in Economics  
+Newcastle University Business School  
 
-        header {
-            background-color: #111;
-            color: white;
-            padding: 40px 20px;
-            text-align: center;
-        }
+**Fields:** Economics of Crime · Political Economy · Applied Microeconometrics · Causal Inference  
 
-        header h1 {
-            margin: 0;
-            font-size: 36px;
-            font-weight: 600;
-        }
+---
 
-        header p {
-            margin-top: 10px;
-            font-size: 18px;
-            opacity: 0.85;
-        }
+## About
 
-        nav {
-            text-align: center;
-            padding: 15px;
-            background-color: #ffffff;
-            border-bottom: 1px solid #ddd;
-        }
+I am an economist working on the economics of crime and institutional enforcement.  
+My research examines how political incentives, institutional signals, and enforcement strategies shape criminal behaviour, compliance, and discrimination.
 
-        nav a {
-            margin: 0 15px;
-            text-decoration: none;
-            color: #333;
-            font-weight: 500;
-        }
+I study the rules of the game, who breaks them, and how enforcement institutions respond.
 
-        nav a:hover {
-            text-decoration: underline;
-        }
+---
 
-        section {
-            max-width: 900px;
-            margin: 60px auto;
-            padding: 0 20px;
-        }
+## Research Areas
 
-        h2 {
-            border-bottom: 2px solid #111;
-            padding-bottom: 10px;
-            margin-bottom: 25px;
-        }
+- Political rhetoric and policing  
+- Drug markets and criminal markets  
+- Gang territories and crime geography  
+- Tax compliance and identity rhetoric  
+- Migration enforcement and institutional outsourcing  
 
-        .highlight {
-            font-weight: 600;
-        }
+---
 
-        .button {
-            display: inline-block;
-            margin-top: 20px;
-            padding: 10px 18px;
-            background-color: #111;
-            color: white;
-            text-decoration: none;
-            font-size: 14px;
-        }
+## Selected Publications
 
-        .button:hover {
-            opacity: 0.8;
-        }
+**Political Rhetoric and Racial Discrimination in Arrests for Drugs**  
+(with Francesco Barilari)  
+*The Economic Journal*, forthcoming (2025)
 
-        footer {
-            text-align: center;
-            padding: 30px;
-            background-color: #111;
-            color: white;
-            font-size: 14px;
-        }
-    </style>
-</head>
-<body>
+**Externalizing Rescue Operations at Sea**  
+(with Emanuele Albarosa)  
+*Journal of Economic Geography*, 2025
 
-<header>
-    <h1>Diego Zambiasi</h1>
-    <p>Economist | Economics of Crime | Political Economy | Causal Inference</p>
-</header>
+**Spatial Inequality in Unsolved Crimes**  
+(with Bahadir Dursun and Nils Braakmann)  
+*Journal of Regional Science*, 2025
 
-<nav>
-    <a href="#about">About</a>
-    <a href="#research">Research</a>
-    <a href="#publications">Publications</a>
-    <a href="#contact">Contact</a>
-</nav>
+**Offshore Finance and Corruption in Oil Licensing**  
+(with Giovanna Marcolongo)  
+*Energy Economics*, 2024
 
-<section id="about">
-    <h2>About</h2>
-    <p>
-        I am a Lecturer (Assistant Professor) in Economics at Newcastle University Business School.
-        My research focuses on the economics of crime, political incentives, institutional enforcement,
-        and discrimination in law enforcement.
-    </p>
-    <p>
-        I study how the rules of the game are shaped, who breaks them, and how enforcement institutions respond.
-        My work combines applied microeconometrics and causal inference methods.
-    </p>
-</section>
+**Drugs on the Web, Crimes in the Streets**  
+*Journal of Economic Behavior and Organization*, 2022
 
-<section id="research">
-    <h2>Research Areas</h2>
-    <ul>
-        <li>Political rhetoric and policing</li>
-        <li>Drug markets and criminal markets</li>
-        <li>Gang territories and crime geography</li>
-        <li>Tax compliance and identity rhetoric</li>
-        <li>Migration enforcement and institutional outsourcing</li>
-    </ul>
-</section>
+**The Pot Rush: Is Legalized Marijuana a Positive Local Amenity?**  
+(with Steven Stillman)  
+*Economic Inquiry*, 2020
 
-<section id="publications">
-    <h2>Selected Publications</h2>
-    <p>
-        <span class="highlight">Political Rhetoric and Racial Discrimination in Arrests for Drugs</span><br>
-        Forthcoming, The Economic Journal (2025)
-    </p>
-    <p>
-        <span class="highlight">Externalizing Rescue Operations at Sea</span><br>
-        Journal of Economic Geography (2025)
-    </p>
-    <p>
-        <span class="highlight">Drugs on the Web, Crimes in the Streets</span><br>
-        Journal of Economic Behavior and Organization (2022)
-    </p>
+---
 
-    <a class="button" href="#">Download Full CV</a>
-</section>
+## Working Papers
 
-<section id="contact">
-    <h2>Contact</h2>
-    <p>
-        Newcastle University Business School<br>
-        5 Barrack Road<br>
-        Newcastle Upon Tyne, NE1 4SE<br>
-        United Kingdom
-    </p>
-    <p>Email: diego.zambiasi@newcastle.ac.uk</p>
-</section>
+- *Media and Crime: Evidence from the Publicising of Gang Territories*  
+  (with Nils Braakmann)
 
-<footer>
+- *Sanction Evasion Through Tax Havens*  
+  (with Kerim Can Kavakli and Giovanna Marcolongo)
+
+- *Identity Rhetoric and Tax Evasion*  
+  (with Francesco Barilari, Francesca Maria Calamunci, Federico Fabio Frattini)
+
+---
+
+## Academic Service
+
+- Research Community Lead, Newcastle University (2022–present)  
+- Fellow of the Higher Education Academy  
+
+---
+
+## Contact
+
+Newcastle University Business School  
+5 Barrack Road  
+Newcastle Upon Tyne, NE1 4SE  
+United Kingdom  
+
+Email: diego.zambiasi@newcastle.ac.uk  
+
+---
+
+## Links
+
+- Google Scholar: *(add link)*  
+- SSRN: *(add link)*  
+- CV (PDF): *(add link to /cv.pdf once uploaded)*  
     © 2026 Diego Zambiasi
 </footer>
 
